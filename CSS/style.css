@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banners {
+    height: 980px;
+}
+.navbar{
+    background-color: rgb(1, 180, 144);
+
+}
+
+#banner1 {
+    background-image: url(../images/infosys.jpg);
+
+}
+
+#banner2 {
+    background-image: url(../images/banner2.png);
+}
+#banner3 {
+    background-image: url(../images/banner3.png);
+}
+#banner4 {
+    background-image: url(../images/banner4.png);
+}
+#banner5 {
+    background-color: lightsalmon;
+    height: 25vw;
+    text-decoration: white;
+}
+
+.banner-ctn {
+   
+    width: 100%;
+    padding: 5 200px;
+    padding-top: 190px;
+}
+
+.banner-ctn1 {
+
+    width: 100%;
+    padding: 5 200px;
+    padding-top: 90px;
+}
+
+.navig {
+    padding: 50px 80px;
+    width: 200px;
+    height: 100px;
+    background-color: thistle;
+}
+
+.main-nav {
+    margin-left: 400px;
+}
+
+.main-nav > li {
+    padding: 0 30px;
+}
+
+.no-border > li{
+    border-bottom: none;
+}
+
+.footer {
+    margin: 0 40%;
+}
+.bi{
+    size: 150pt;
+}
